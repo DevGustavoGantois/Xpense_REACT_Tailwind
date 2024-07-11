@@ -1,6 +1,6 @@
 <a href="https://xpense-react-tailwind-devgustavogantois.vercel.app/">Clique aqui para ter acesso ao deploy!</a>
 
-<h1>XPense</h1>
+<h1>XPense Landing Page!</h1>
 
 <p>Este projeto é uma landing page desenvolvida com REACT e Tailwind.</p>
 
